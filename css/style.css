@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body{
+    text-align: center;
+}
+
+.navbar{
+    width: 100%;
+    margin: 0;
+}
+
+h1.text-center{
+    margin-bottom: 50px;
+    font-weight: 800;
+    font-size: 3em;
+}
+
+a.navbar-brand{
+    color: white;
+    font-size: 2em;
+}
+
+ul li a:hover{
+    border: 2px solid white;
+}
+
+.content{
+    background-color: gray;
+    padding: 15px;
+    color: black;
+    margin: 20px;
+}
+
+.title{
+    font-weight: bolder;
+    font-size: 1.6em;
+    margin-bottom: 10px;
+}
+
+.top{
+    text-decoration: none;
+    color: darkslategrey;
+}
+
+.top:hover{
+    text-decoration: none;
+    color: white;
+}
